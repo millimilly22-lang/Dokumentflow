@@ -1,0 +1,10 @@
+{
+  "name": "DokumentFlow",
+  "short_name": "DokumentFlow",
+  "lang": "pl-PL",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f4f7fb",
+  "theme_color": "#07111f",
+  "description": "Skanowanie i organizacja dokumentów, wydatków oraz raportów."
+}
