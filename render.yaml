@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: dokumentflow
+    runtime: static
+    buildCommand: npm install && npm run build
+    staticPublishPath: ./dist
+    envVars:
+      - key: SITE_URL
+        value: https://dokumentflow.onrender.com
